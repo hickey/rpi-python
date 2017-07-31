@@ -2,6 +2,8 @@
 
 Raspberry Pi compatible Docker base image with Python preinstalled.
 
+This container is based on Debian Stretch and installs Python 3.5.3.
+
 Run all the commands from within the project root directory.
 
 ### Build Details
